@@ -36,6 +36,7 @@
 - One-shot MOT
 - Traking-by-attention
 - Spiking neural network
+- Computer Vision
 - Machine Learning / Deep Learning
 ### Challenge
 - Let's change the one shot MOT to SNN-based(Trackformer)
