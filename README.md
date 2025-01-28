@@ -11,9 +11,9 @@
 
 
 ## 📫Contact
+[![Naver Badge](https://img.shields.io/badge/-Naver-03C75A?style=03C75A&logo=Naver&logoColor=white&link=mailto:danny472@naver.com)](mailto:danny472@naver.com) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s01075659788@gmail.com)](mailto:s01075659788@gmail.com) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://donghunkang.tistory.com/)](https://donghunkang.tistory.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kkang_donghun/](https://www.instagram.com/kkang_donghun/) 
 
 ## 🔭About me
 
@@ -21,8 +21,15 @@
 - B.S. in School of Computer Science and Engineering, Sejong University `2020.03 ~ 2022.02`
 - B.S. in School of Artificial Intelligence(AI), University of Seoul `2024.03 ~ `
 
-### 🔭 Internships
+### ✨ Internships
 - Undergraduate Research Student in ODAI Lab, University of Seoul `2024.09 ~ `
+
+### 🏅 Certificate
+- ICQA 네트워크 관리사 2급 '2022.10.04'
+- SQLD '2024.12.13'
+
+### 📣 ExtraCurricular Activity
+- SK AI Data Academy 1기 중급(SKADA) '2024.07.03 ~ 2024.08.11'
 
 ### 😄 Interests
 - One-shot MOT
@@ -66,11 +73,11 @@ If you want to see more information about me, here is my [**CV 📥**]
  </div>
  
 ## 🏆 competitions
-- 'UOS' 사울시립대학교 AICOSS 산학협력 딥러닝 겨울 부트캠프 **1st**
+- 'UOS' 서울시립대학교 AICOSS 산학협력 딥러닝 겨울 부트캠프 **1st**
 
   
-[![Kang's github stats](https://github-readme-stats.vercel.app/api?username=00kangdonghun&show_icons=true&theme=tokyonight)](https://github.com/00kangdonghun)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00kandonghun&layout=compact&theme=tokyonight)
-
+[![Kang's github stats](https://github-readme-stats.vercel.app/api?username=00kangdonghun&show_icons=true&theme=tokyonight)](https://github.com/00kangdonghun)
+[![Top Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=00kangdonghun&layout=compact&theme=tokyonight)
 
 <!--
 **00kangdonghun/00kangdonghun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
