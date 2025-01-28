@@ -25,11 +25,12 @@
 - Undergraduate Research Student in ODAI Lab, University of Seoul `2024.09 ~ `
 
 ### 🏅 Certificate
-- ICQA 네트워크 관리사 2급 '2022.10.04'
-- SQLD '2024.12.13'
+- ICQA 네트워크 관리사 2급 `2022.10.04`
+- SQLD `2024.12.13`
 
 ### 📣 ExtraCurricular Activity
-- SK AI Data Academy 1기 중급(SKADA) '2024.07.03 ~ 2024.08.11'
+- SK AI Data Academy 1기 중급(SKADA) `2024.07.03 ~ 2024.08.11`
+- AICOSS 산학협력 딥러닝 겨울 부트캠프 `2024.01.07 ~ 2024.01.17`
 
 ### 😄 Interests
 - One-shot MOT
@@ -73,11 +74,12 @@ If you want to see more information about me, here is my [**CV 📥**]
  </div>
  
 ## 🏆 competitions
-- 'UOS' 서울시립대학교 AICOSS 산학협력 딥러닝 겨울 부트캠프 **1st**
+- `UOS` 서울시립대학교 AICOSS 산학협력 딥러닝 겨울 부트캠프 **1st**
 
   
 [![Kang's github stats](https://github-readme-stats.vercel.app/api?username=00kangdonghun&show_icons=true&theme=tokyonight)](https://github.com/00kangdonghun)
-[![Top Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=00kangdonghun&layout=compact&theme=tokyonight)
+
+![Top Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=00kangdonghun&layout=compact&theme=tokyonight)
 
 <!--
 **00kangdonghun/00kangdonghun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
