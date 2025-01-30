@@ -5,7 +5,7 @@
 # Hi I'm Kangdonghun.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangdonghun)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=Kangdonghun&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Kangdonghun&fontSize=80)
 
 </div>
 
