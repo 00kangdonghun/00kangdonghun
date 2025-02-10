@@ -41,8 +41,7 @@
 ### Challenge
 - Let's change the one shot MOT to SNN-based(Trackformer)
 ### Additional Information
-If you want to see more information about me, here is my [**CV 📥**]
-(file:///C:/Users/%EA%B0%95%EB%8F%99%ED%9B%88/OneDrive/%EB%B0%94%ED%83%95%ED%99%94~1-DESKTOP-S96BVCO-3504/CV.pdf)
+If you want to see more information about me, here is my [**CV 📥**] (file:///C:/Users/%EA%B0%95%EB%8F%99%ED%9B%88/OneDrive/%EB%B0%94%ED%83%95%ED%99%94~1-DESKTOP-S96BVCO-3504/CV.pdf)
 
 <div>
 
