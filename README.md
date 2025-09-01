@@ -30,7 +30,7 @@
 ### 📣 ExtraCurricular Activity
 - SK AI Data Academy 1기 중급(SKADA) `2024.07.03 ~ 2024.08.11`
 - AICOSS 산학협력 딥러닝 겨울 부트캠프 `2024.01.07 ~ 2024.01.17`
-- LG Aimers 7기 Data Intelligence '2025.07.01 ~ 2025.08.25'
+- LG Aimers 7기 Data Intelligence `2025.07.01 ~ 2025.08.25`
 
 ### 😄 Interests
 - One-shot MOT
