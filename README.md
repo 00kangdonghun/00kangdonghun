@@ -31,6 +31,7 @@
 - SK AI Data Academy 1기 중급(SKADA) `2024.07.03 ~ 2024.08.11`
 - AICOSS 산학협력 딥러닝 겨울 부트캠프 `2024.01.07 ~ 2024.01.17`
 - LG Aimers 7기 Data Intelligence `2025.07.01 ~ 2025.08.25`
+- 2025 K-DATA SCIENCE 컨퍼런스&해커톤 `2025.09.03 ~ 2025.09.05`
 
 ### 😄 Interests
 - One-shot MOT
@@ -38,8 +39,7 @@
 - Spiking neural network
 - Computer Vision
 - Machine Learning / Deep Learning
-### Challenge
-- ...
+
 ### Additional Information
 If you want to see more information about me, here is my [**CV 📥**](https://github.com/00kangdonghun/CV/blob/main/CV.pdf)
 
@@ -65,7 +65,7 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
   ### 🛠 Tools
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
 
 
@@ -74,6 +74,7 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
  
 ## 🏆 competitions
 - `UOS` 서울시립대학교 AICOSS 산학협력 딥러닝 겨울 부트캠프 **1st**
+- `2025 K-DATA SCIENCE 헤커톤` **창의상**
 
   
 [![Kang's github stats](https://github-readme-stats.vercel.app/api?username=00kangdonghun&show_icons=true)](https://github.com/00kangdonghun)
